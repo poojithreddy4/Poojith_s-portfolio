@@ -132,6 +132,11 @@ export const projectData = [
     image: "/images/R1.png",
     url: "https://todoapp-nine-taupe.vercel.app/",
   },
+  {
+    id: 3,
+    image: "/images/R3.png",
+    url: "https://poojiths-portfolio.netlify.app/",
+  },
 ];
 
 export const skillsData = [

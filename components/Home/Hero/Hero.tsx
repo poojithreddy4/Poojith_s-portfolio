@@ -35,7 +35,7 @@ const Hero = () => {
   };
 
   const handleCodeClick = () => {
-    window.location.href = "https://yourcodingplatform.com"; // Replace with your actual coding site or profile link
+    window.location.href = "https://poojiths-portfolio.netlify.app/"; // Replace with your actual coding site or profile link
   };
   return (
     <div className="bg-[#0f0715] h-screen w-full md:pt-[12vh] overflow-hidden pt-[4vh] relative scroll-mt-24">
