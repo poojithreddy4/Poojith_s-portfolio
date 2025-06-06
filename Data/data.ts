@@ -28,10 +28,10 @@ export const experiencesData = [
   //     "Optimized backend performance by implementing asynchronous operations with Node.js and Express.js, utilizing async/await, middleware, and error handling. Reduced response time by 75% through load balancing and optimized queries, ensuring smooth server-side operations. Leveraged MongoDB for efficient data storage and AWS EC2 for scalable deployments with auto-scaling and load balancing. Ensured high availability, security, and minimal downtime while handling large traffic loads efficiently. Created interactive dashboards and reports using Tableau, Power BI, OBIEE, SPSS, and SAS, improving decision-making accuracy by 90%.",
   // },
   {
-    title: "Associate Product Developer",
+    title: "Python Developer",
     location: "Banglore, India",
     description:
-      " Built full-stack web applications using React.js, Node.js, and MongoDB, with a focus on high-performance, scalability, and structured state management using useState, useReducer, and Context API. Developed RESTful APIs and integrated them with the frontend using useEffect hooks for real-time data fetching, caching, and synchronization, improving app responsiveness by 90%. Optimized API performance through middleware, async/await patterns, and error handling, reducing response time by 75%. Integrated authentication and authorization mechanisms to secure user interactions across multi-user environments. Developed responsive web apps with HTML, CSS, and React, improving load time performance by 20% using pagination and component optimization. Collaborated with stakeholders using Agile methodologies, delivering sprint-based features and tested pipelines in staging environments. Deployed on AWS EC2 with auto-scaling, ensuring high availability and security. Created interactive dashboards using Tableau, Power BI, and OBIEE, leading to a 90% increase in decision-making efficiency through real-time analytics",
+      "In my previous roles, I have gained significant experience in python, program evaluation and statistical analysis, particularly with large datasets. I have developed and optimized data-driven applications using Python, leveraging libraries like NumPy and pandas for efficient data manipulation. While I have worked with SAS, the skills I have gained in data management and statistical analysis using Python are highly transferable",
     date: "June 2021 - March 2022",
   },
 ];
@@ -40,8 +40,8 @@ export const educationData = [
     id: 1,
     institution: "University at Albany, State University of New York",
     degree: "Master's in Computer Science",
-    date: "May 2025 (Expected)",
-    gpa: " 3.2/4.0",
+    date: "May 2025",
+    gpa: " 3.3/4.0",
   },
   {
     id: 2,
