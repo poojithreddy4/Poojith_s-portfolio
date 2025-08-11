@@ -28,10 +28,10 @@ export const experiencesData = [
   //     "Optimized backend performance by implementing asynchronous operations with Node.js and Express.js, utilizing async/await, middleware, and error handling. Reduced response time by 75% through load balancing and optimized queries, ensuring smooth server-side operations. Leveraged MongoDB for efficient data storage and AWS EC2 for scalable deployments with auto-scaling and load balancing. Ensured high availability, security, and minimal downtime while handling large traffic loads efficiently. Created interactive dashboards and reports using Tableau, Power BI, OBIEE, SPSS, and SAS, improving decision-making accuracy by 90%.",
   // },
   {
-    title: "Python Developer",
+    title: "Associate Product Developer",
     location: "Banglore, India",
     description:
-      "In my previous roles, I have gained significant experience in python, program evaluation and statistical analysis, particularly with large datasets. I have developed and optimized data-driven applications using Python, leveraging libraries like NumPy and pandas for efficient data manipulation. While I have worked with SAS, the skills I have gained in data management and statistical analysis using Python are highly transferable",
+      "Optimized backend performance by implementing asynchronous operations with Node.js and Express.js, utilizing async/await, middleware, and error handling. Reduced response time by 75% through load balancing and optimized queries, ensuring smooth server-side operations. Leveraged MongoDB for efficient data storage and AWS EC2 for scalable deployments with auto-scaling and load balancing. Ensured high availability, security, and minimal downtime while handling large traffic loads efficiently. Created interactive dashboards and reports using Tableau, Power BI, OBIEE, SPSS, and SAS, improving decision-making accuracy by 90%.",
     date: "June 2021 - March 2022",
   },
 ];
