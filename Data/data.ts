@@ -2,7 +2,7 @@ export const BaseInfo = {
   name: "",
   position: "Poojith Kumar Reddy Madduru",
   description:
-    "Graduate student in Computer Science at the University at Albany, SUNY. Actively seeking full-time opportunities where I can apply my skills to build robust and scalable full-stack applications.",
+    "Graduated student in Computer Science at the University at Albany, SUNY. Actively seeking full-time opportunities where I can apply my skills to build robust and scalable full-stack applications.",
   profilePic: "/images/Hero.jpeg",
 };
 
