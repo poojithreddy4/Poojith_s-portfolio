@@ -23,7 +23,6 @@ export const experiencesData = [
       " As an Information Technology Specialist 2 at the New York State Office of Information Technology Services (ITS), I am responsible for developing, maintaining, and optimizing enterprise-level applications through automation, scripting, and full-stack development. My work focuses on improving efficiency, scalability, and security across state agency systems by leveraging modern development tools and frameworks. I design, test, and deploy automated workflows that streamline data processing and system management, reducing manual intervention and increasing reliability.",
     date: "March 2025 - Present",
   },
-  ,
   {
     title: "Full Stack Developer",
     location: "Banglore, India",
